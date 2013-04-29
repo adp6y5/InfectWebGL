@@ -8,6 +8,7 @@ WebGL context, shader programs, etc.
 Loads the infect namespace used throughout the rest of the program.
 
 @author: Sean Lander
+@co-author: Ankil Patel
 
 Most code taken from Mozilla's Developer Network guide on WebGL
 https://developer.mozilla.org/en-US/docs/WebGL
